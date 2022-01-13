@@ -8,7 +8,7 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>ZoomInspo</title>
-        <meta name="description" content="Instantly inspire your team by hiring their favorite YouTuber, athlete, comedic legend, and more." />
+        <meta name="description" content="Instantly inspire your team and hire their favorite YouTuber, athlete, comedic legend, and more." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
