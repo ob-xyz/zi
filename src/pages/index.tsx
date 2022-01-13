@@ -8,13 +8,13 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>ZoomInspo</title>
-        <meta name="description" content="Zoom calls that inspire people" />
+        <meta name="description" content="Zoom calls that inspire teams of people" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
-        <h2>Zoom calls that inspire people</h2>
+        <h2>Zoom calls that inspire teams of people</h2>
         <video 
           src="/assets/vid/video.mp4"
           width={600}
